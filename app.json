@@ -1,8 +1,8 @@
 {
   "name": "Gatekeeper",
   "description": "Enables client-side applications to dance OAuth with GitHub.",
-  "website": "https://github.com/willofmike/gatekeeper",
-  "repository": "https://github.com/willofmike/gatekeeper",
+  "website": "https://github.com/prose/gatekeeper",
+  "repository": "https://github.com/prose/gatekeeper",
   "keywords": ["node", "github", "oauth"],
   "env": {
     "OAUTH_CLIENT_ID": "bcd9a7139c01c69761b0",
