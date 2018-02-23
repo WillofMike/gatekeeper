@@ -23,6 +23,7 @@ function loadConfig() {
       log(i + ':', config[i]);
     }
   }
+  log(config)
   return config;
 }
 
